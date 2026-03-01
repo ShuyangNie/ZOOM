@@ -55,7 +55,7 @@ Installation
 
     $ conda create -n zoom_env python=3.9
     $ conda activate zoom_env
-    $ cd zoom-master
+    $ cd ZOOM-main
 
 Install other requirements:
 
