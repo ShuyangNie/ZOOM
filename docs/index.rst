@@ -31,7 +31,7 @@ Table of Contents
 
 Developer
 =========
-- Shuyang Nie, Zhejiang University, Vengurn@gmail.com.
+- Shuyang Nie, Zhejiang University, 22419029@zju.edu.cn.
 
 License
 =======
